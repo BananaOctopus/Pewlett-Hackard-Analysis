@@ -8,8 +8,9 @@
 Four major points from the two analysis deliverables
 Major take-aways from this analysis are:
 
--The total number of eligible mentors is only 1,548 out of the 90,397 employees that are about the retire.
--The majority of the soon-to-be retirees are the Senior level engineer, with "Senoir Staff" at a close second.
+- The total number of eligible mentors is only 1,548 out of the 90,397 employees that are about the retire.
+- The majority of the soon-to-be retirees are the Senior level engineer, with "Senoir Staff" at a close second.
+- The highest number of soon-to-be retirees are form the Developement Department, with the Production Department as a close second.
 - 
 
 # Summary:
